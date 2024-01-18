@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1080,
+    "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/canvas/",
+    "label" : {
+      "none" : [ "cho-tet-tren-song" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 34,
+              "height" : 19
+            }, {
+              "width" : 68,
+              "height" : 38
+            }, {
+              "width" : 135,
+              "height" : 76
+            }, {
+              "width" : 270,
+              "height" : 152
+            }, {
+              "width" : 540,
+              "height" : 304
+            }, {
+              "width" : 1080,
+              "height" : 608
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1080,
+            "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 608
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1080,
+          "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 608
+        },
+        "target" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/canvas/"
+      } ]
+    } ],
+    "height" : 608
+  }, {
     "width" : 1366,
     "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/am-thuc-rieng-ngay-tet/canvas/",
     "label" : {
