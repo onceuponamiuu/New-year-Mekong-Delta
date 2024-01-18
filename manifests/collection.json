@@ -1,0 +1,15 @@
+{
+  "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in onceuponamiuu/New-year-Mekong-Delta project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/manifests/manifest.json",
+    "label" : {
+      "en" : [ "All images loaded in onceuponamiu/Le-Thuy-Tien_NGUYEN project" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
