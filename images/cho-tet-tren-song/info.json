@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 34,
+    "height" : 19
+  }, {
+    "width" : 68,
+    "height" : 38
+  }, {
+    "width" : 135,
+    "height" : 76
+  }, {
+    "width" : 270,
+    "height" : 152
+  }, {
+    "width" : 540,
+    "height" : 304
+  }, {
+    "width" : 1080,
+    "height" : 608
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1080,
+  "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 608
+}
