@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://onceuponamiuu.github.io/New-year-Mekong-Delta/annotations/info1.json" ],
+  "otherContent" : [ ],
   "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/annotations/collection.json",
   "label" : "All annotations loaded in onceuponamiuu/New-year-Mekong-Delta project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
