@@ -11,5 +11,9 @@
       "en" : [ "All images loaded in onceuponamiu/Le-Thuy-Tien_NGUYEN project" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : null,
+    "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/manifests/info.json",
+    "label" : null
   } ]
 }
