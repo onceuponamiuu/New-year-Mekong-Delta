@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 24,
+    "height" : 18
+  }, {
+    "width" : 47,
+    "height" : 35
+  }, {
+    "width" : 94,
+    "height" : 69
+  }, {
+    "width" : 188,
+    "height" : 138
+  }, {
+    "width" : 375,
+    "height" : 275
+  }, {
+    "width" : 750,
+    "height" : 549
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 750,
+  "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/tet1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 549
+}
